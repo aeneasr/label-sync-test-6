@@ -12,10 +12,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Milestone Documentation Generator
-        uses: ory/milestone-action@v0.0.3
+        uses: ory/milestone-action@v0.0.6
         with:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-      - name: Commit and push milestone changes
-        run: |
-          git add -A
-          (git commit -a -m "autogen(docs): update milestone" && git push) || exit 0
+      - name: Commit Milestone Documentation
+        uses: EndBug/add-and-commit@v4.4.0
+        with:
+          message: "autogen(docs): update milestone"
+          author_name: aeneasr
+          author_email: "3372410+aeneasr@users.noreply.github.com"
