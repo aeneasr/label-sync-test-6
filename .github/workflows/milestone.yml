@@ -3,6 +3,10 @@ name: Pull Request Milestone
 
 on:
   workflow_dispatch:
+  issues:
+    types: [opened, closed, edited, demilestoned, milestoned, reopened, assigned, unassigned, labeled, unlabeled]
+  pull_request:
+    types: [opened, closed, edited, demilestoned, milestoned, reopened, assigned, unassigned, labeled, unlabeled]
 
 jobs:
   milestone:
