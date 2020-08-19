@@ -1,0 +1,16 @@
+
+name: Pull Request Milestone
+
+on:
+  workflow_dispatch:
+
+jobs:
+  milestone:
+    name: Generate and Publish Milestone Document
+    runs-on: ubuntu-latest
+    steps:
+      - name: Milestone Documentation Generator
+        uses: ory/milestone-action@v0.0.2
+        with:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          
