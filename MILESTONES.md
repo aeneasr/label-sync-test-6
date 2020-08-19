@@ -26,4 +26,4 @@ This doesn't seem right
 
 #### Issues
 
-* [ ] fq3w4aefdsv ([label-sync-test-6#3](https://github.com/aeneasr/label-sync-test-6/issues/3))([@hackerman](https://github.com/aeneasr))
+* [x] fq3w4aefdsv ([label-sync-test-6#3](https://github.com/aeneasr/label-sync-test-6/issues/3))([@hackerman](https://github.com/aeneasr))
