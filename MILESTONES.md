@@ -11,6 +11,7 @@ Something isn't working
 #### Issues
 
 * [x] a ([label-sync-test-6#1](https://github.com/aeneasr/label-sync-test-6/issues/1))
+* [x] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
 
 ### [Label Documentation](https://github.com/aeneasr/label-sync-test-6/labels/documentation)
 
@@ -18,7 +19,7 @@ Improvements or additions to documentation
 
 #### Issues
 
-* [ ] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
+* [x] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
 
 ### [Label Invalid](https://github.com/aeneasr/label-sync-test-6/labels/invalid)
 
