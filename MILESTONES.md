@@ -28,3 +28,9 @@ This doesn't seem right
 #### Issues
 
 * [ ] fq3w4aefdsv ([label-sync-test-6#3](https://github.com/aeneasr/label-sync-test-6/issues/3))([@hackerman](https://github.com/aeneasr))
+
+### [Label Needs more info](https://github.com/aeneasr/label-sync-test-6/labels/needs%20more%20info)
+
+#### Issues
+
+* [ ] a ([label-sync-test-6#1](https://github.com/aeneasr/label-sync-test-6/issues/1))
