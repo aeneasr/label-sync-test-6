@@ -10,8 +10,8 @@ Something isn't working
 
 #### Issues
 
-* [x] a ([label-sync-test-6#1](https://github.com/aeneasr/label-sync-test-6/issues/1))
-* [x] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
+* [ ] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
+* [ ] a ([label-sync-test-6#1](https://github.com/aeneasr/label-sync-test-6/issues/1))
 
 ### [Label Documentation](https://github.com/aeneasr/label-sync-test-6/labels/documentation)
 
@@ -19,7 +19,7 @@ Improvements or additions to documentation
 
 #### Issues
 
-* [x] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
+* [ ] b ([label-sync-test-6#2](https://github.com/aeneasr/label-sync-test-6/issues/2))([@hackerman](https://github.com/aeneasr))
 
 ### [Label Invalid](https://github.com/aeneasr/label-sync-test-6/labels/invalid)
 
@@ -27,4 +27,4 @@ This doesn't seem right
 
 #### Issues
 
-* [x] fq3w4aefdsv ([label-sync-test-6#3](https://github.com/aeneasr/label-sync-test-6/issues/3))([@hackerman](https://github.com/aeneasr))
+* [ ] fq3w4aefdsv ([label-sync-test-6#3](https://github.com/aeneasr/label-sync-test-6/issues/3))([@hackerman](https://github.com/aeneasr))
